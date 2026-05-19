@@ -7,3 +7,4 @@ Repository-index that groups different projects from the M.Sc. in Big Data, Data
 | Area | Project | Technologies | Link |
 |---|---|---|---|
 | NoSQL | Música y salud mental | MongoDB, Docker, NoSQL Booster | [View repository](https://github.com/DrepoBlapo/MongoDB-Musica-y-salud-mental) |
+|---| ⚠ _Repository in process_ | Soon every project will be added 😉|---|
