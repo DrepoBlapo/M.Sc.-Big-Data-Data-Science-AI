@@ -21,7 +21,7 @@ Repository-index that groups different projects from the M.Sc. in Big Data, Data
 | DL - Fundamentos y procesamiento de imágenes | Uso de Redes Neuronales(NN) y CNN | NN, CNN | [Ver repositorio](https://github.com/DrepoBlapo/DeepLearning-Fundamentos-y-procesamiento-de-imagenes-con-redes-neuronales) |
 | DL - Análisis de series temporales con NN | NN en series temporales | RNN | [Ver repositorio](https://github.com/DrepoBlapo/DeepLearning-Analisis-de-series-temporales-con-redes-neuronales) |
 | AI - Natural Language Processing (NLP) | NLP en clasificación y QA | Torch, Transformers | [Ver repositorio](https://github.com/DrepoBlapo/NLP-Clasificacion-y-QA) |
-| BigData - Programación Spark | Análisis de la colección de MoMa | Spark | [Ver repositorio](https://github.com/DrepoBlapo/Big-Data-Programacion-Spark) |
+| BigData - Programación Spark | Análisis de la colección de MoMA | Spark | [Ver repositorio](https://github.com/DrepoBlapo/Big-Data-Programacion-Spark) |
 |---| ⚠ _Repository in process_ | Soon every project will be added 😉|---|
 
 _ML: Machine Learning_
